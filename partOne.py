@@ -4,5 +4,6 @@ def main():
 
 def myFunction(text):
   #Your code goes here.
-
+ x = text.replace(" ", "...")
+ print(x)
 main()
